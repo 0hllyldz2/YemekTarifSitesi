@@ -1,0 +1,21 @@
+﻿.Buton {
+    height: 40px;
+    width: 120px;
+    background-color: #0094ff;
+    color: white;
+    font-size: 18pt;
+}
+
+.Label {
+    background-color: #ffd800;
+    font-size: 12pt;
+    color: blue;
+}
+
+.Div {
+    background-color: orangered;
+    width: 500px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
